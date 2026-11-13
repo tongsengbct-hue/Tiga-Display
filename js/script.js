@@ -1,5 +1,4 @@
 
-
 const STORE = {
   whatsapp: "6287720826583",
   address: "Tiga Display Office (Kantor CV Tiga Display), Jalan Haji Domang, RT.8/RW.2, Kebon Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta"
